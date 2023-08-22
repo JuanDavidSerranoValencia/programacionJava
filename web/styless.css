@@ -1,0 +1,23 @@
+*{
+   margin:0;
+   padding:0;
+}
+body{
+   
+}
+.contenedor{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin:40px;
+    
+}
+.inputs{
+    margin: auto;
+    
+}
+.btn-login,btn-saludo{
+    margin:30px;
+}
